@@ -1,0 +1,25 @@
+/* styles/payment.css */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#payment-method {
+  margin-bottom: 20px;
+}
+
+#payment-details {
+  margin-top: 20px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
